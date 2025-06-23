@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/hpx07/profile-banner/blob/main/WD%20P.png" alt="Profile Banner" />
 </p>
-<h1 align="center">Hi, I'm Harman(HPX07) 👋</h1>
+<h1 align="center">Hi, I'm Harmanpreet Singh(HPX07) 👋</h1>
 <h3 align="center">A Front End Web Developer in Progress 🚀</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+build+cool+web+projects!;Love+HTML,+CSS,+%26+JS!" alt="Typing SVG" />
