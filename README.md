@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm HPX07 👋</h1>
 <h3 align="center">A Web Developer in Progress 🚀</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+build+cool+web+projects!;Love+HTML,+CSS,+JS+%26+React!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+build+cool+web+projects!;Love+HTML,+CSS,+%26+JS!" alt="Typing SVG" />
 
 ---
 
-🌍 **Location:** India  
-💻 **Tech Stack:** HTML | CSS | JavaScript | React | Node.js | Express | MongoDB  
-📫 **Contact:** [Email](mailto:hpx07@example.com) | [Portfolio](https://hpx07.github.io/)  
+<?-- 🌍 **Location:** India --?>  
+💻 **Tech Stack:** HTML | CSS | JavaScript | C/C++ | JAVA | MySQL   
+📫 **Contact:** [Email](yournamepleaseplease@gmail.com) | [Portfolio](www.linkedin.com/in/harmanpreet-singh-1b15b4231)  
 🌱 **Currently Learning:** Full Stack Development  
-🧠 **Interest Areas:** UI/UX Design, API Integration, GitHub Pages  
+🧠 **Interest Areas:** Web Development, UI/UX Design, Wordpress, GitHub Pages  
 🎯 **Goal:** Build 10+ projects by year-end!
 
 ---
