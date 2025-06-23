@@ -1,15 +1,18 @@
-<h1 align="center">Hi, I'm HPX07 👋</h1>
-<h3 align="center">A Web Developer in Progress 🚀</h3>
+<p align="center">
+  <img src="#" alt="Profile Banner" />
+</p>
+<h1 align="center">Hi, I'm Harman(HPX07) 👋</h1>
+<h3 align="center">A Front End Web Developer in Progress 🚀</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+build+cool+web+projects!;Love+HTML,+CSS,+%26+JS!" alt="Typing SVG" />
 
 ---
 
-<?-- 🌍 **Location:** India --?>  
+<!-- 🌍 **Location:** India -->  
 💻 **Tech Stack:** HTML | CSS | JavaScript | C/C++ | JAVA | MySQL   
-📫 **Contact:** [Email](yournamepleaseplease@gmail.com) | [Portfolio](www.linkedin.com/in/harmanpreet-singh-1b15b4231)  
+📫 **Contact:** [Email](mailto:yournamepleaseplease@gmail.com) | [Portfolio](https://www.linkedin.com/in/harmanpreet-singh-1b15b4231/)  
 🌱 **Currently Learning:** Full Stack Development  
-🧠 **Interest Areas:** Web Development, UI/UX Design, Wordpress, GitHub Pages  
+🧠 **Interest Areas:** Front End Web Development, UI/UX Design, Wordpress, GitHub Pages  
 🎯 **Goal:** Build 10+ projects by year-end!
 
 ---
@@ -20,12 +23,19 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <!--
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+   -->
+  
 </p>
 
 ---
