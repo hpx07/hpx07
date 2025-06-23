@@ -37,13 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpx07&layout=compact&theme=radical" width="48%"/>
 </p>
 
----
-
-### 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hpx07&theme=radical" alt="GitHub Streak"/>
-</p>
 
 ---
 
