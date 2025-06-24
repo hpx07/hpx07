@@ -10,7 +10,7 @@
 
 <!-- 🌍 **Location:** India -->  
 💻 **Tech Stack:** HTML | CSS | JavaScript | C/C++ | JAVA | MySQL   
-📫 **Contact:** [Email](mailto:yournamepleaseplease@gmail.com) | [Portfolio](https://www.linkedin.com/in/harmanpreet-singh-1b15b4231/)  
+📫 **Contact:** [Email](mailto:yournamepleaseplease@gmail.com) | [Portfolio](hpx07.netlify.app)  
 🌱 **Currently Learning:** Full Stack Development  
 🧠 **Interest Areas:** Front End Web Development, UI/UX Design, Wordpress, GitHub Pages  
 🎯 **Goal:** Build 10+ projects by year-end!
