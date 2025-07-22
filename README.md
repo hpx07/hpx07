@@ -10,7 +10,7 @@
 
 <!-- 🌍 **Location:** India -->  
 💻 **Tech Stack:** HTML | CSS | JavaScript | C/C++ | JAVA | MySQL   
-**Portfolio** [Portfolio](https://hpx07.netlify.app/) 
+💼 **Portfolio** [Visit](https://hpx07.netlify.app/) 
 📫 **Contact:** [Email](mailto:yournamepleaseplease@gmail.com)
 🌱 **Currently Learning:** Full Stack Development  
 🧠 **Interest Areas:** Front End Web Development, UI/UX Design, Wordpress, GitHub Pages  
