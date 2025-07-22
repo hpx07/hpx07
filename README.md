@@ -9,7 +9,7 @@
 ---
 
 <!-- 🌍 **Location:** India -->  
-💻 **Tech Stack:** HTML | CSS | JavaScript | C/C++ | JAVA | MySQL   
+💻 **Tech Stack:** HTML | CSS | JavaScript | C/C++ | Bootstrap | JAVA | MySQL   
 💼 **Portfolio** [Visit Here!](https://hpx07.netlify.app/) <br>
 📫 **Contact:** [Email](mailto:yournamepleaseplease@gmail.com) <br>
 🌱 **Currently Learning:** Full Stack Development  
