@@ -2,18 +2,18 @@
   <img src="https://github.com/hpx07/profile-banner/blob/main/WD%20P.png" alt="Profile Banner" />
 </p>
 <h1 align="center">Hi, I'm Harmanpreet Singh(HPX07) 👋</h1>
-<h3 align="center">A Front End Web Developer in Progress 🚀</h3>
+<h3 align="center">A Web Developer in Progress 🚀</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+build+cool+web+projects!;Love+HTML,+CSS,+%26+JS!" alt="Typing SVG" />
 
 ---
 
 <!-- 🌍 **Location:** India -->  
-💻 **Tech Stack:** HTML | CSS | JavaScript | C/C++ | Bootstrap | JAVA | MySQL   
+💻 **Tech Stack:** HTML | CSS | JavaScript | PHP | C/C++ | Bootstrap | JAVA | MySQL   
 💼 **Portfolio** [Visit Here!](https://hpx07.netlify.app/) <br>
 📫 **Contact:** [Email](mailto:yournamepleaseplease@gmail.com) <br>
 🌱 **Currently Learning:** Full Stack Development  
-🧠 **Interest Areas:** Front End Web Development, UI/UX Design, Wordpress, GitHub Pages  
+🧠 **Interest Areas:** Web Development,SEO, UI/UX Design, Wordpress, Digital Marketing, GitHub Pages  
 🎯 **Goal:** Build 10+ projects by year-end!
 
 ---
