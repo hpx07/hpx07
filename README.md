@@ -71,9 +71,10 @@
 
 ### 🧠 About Me
 
-> I’m a self-motivated and curious web developer passionate about building responsive and user-friendly websites.  
-> Currently exploring full-stack development with React and Node.js. I love turning ideas into reality through code ✨
-
+> 👨‍💻 I’m a self-driven Full-Stack Developer who loves to build projects from scratch — combining logic, creativity, and precision. <br>
+> 🚀 Currently exploring the modern web stack with React, Node.js, PHP, and MySQL while experimenting with AI tools like ChatGPT, Gemini, and Make.ai to enhance productivity. <br>
+> 💡 Passionate about crafting dynamic, scalable, and visually engaging web experiences, I’m always curious to explore every corner of technology — from design to deployment. <br>
+> 🛠️ Constantly improving my workflow with tools like  Trae, Cursor, Copilot, Replit and Kiro, and bringing ideas to life with Canva and Photoshop.
 ---
 
 ### ✨ Visitor Count
