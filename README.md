@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Harmanpreet Singh(HPX07) 👋</h1>
 <h3 align="center">A Web Developer in Progress 🚀</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+build+cool+web+projects!;Love+HTML,+CSS,+%26+JS!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+build+cool+web+projects!;Love+Building,+interactive,+%26+Web Projects!" alt="Typing SVG" />
 
 ---
 
