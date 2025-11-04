@@ -8,17 +8,16 @@
 
 ---
 
-<!-- 🌍 **Location:** India -->  
-💻 **Tech Stack:** HTML | CSS | JavaScript | PHP | C/C++ | Bootstrap | JAVA | MySQL   
-💼 **Portfolio** [Visit Here!](https://hpx07.netlify.app/) <br>
-📫 **Contact:** [Email](mailto:yournamepleaseplease@gmail.com) <br>
-🌱 **Currently Active and Learning:** Full Stack Development  
-🧠 **Interest Areas:** Web Development,SEO, UI/UX Design, Wordpress, Digital Marketing, GitHub Pages  
-🎯 **Goal:** Build 10+ projects by year-end!
+### 💻 **Tech Stack:**  
+> 🔧 **Languages**: *PHP, Javascript, Python, HTML, CSS, C/C++* <br>
+> ⚙️ **Frameworks**: *Bootstrap* <br>
+> 🗄️ **Database**: *MySQL*  <br>
+> 🔗 **Tools**: *Git, GitHub, VS Code, Trae, Cursor* <br>
+> 🌱 **Currently Active and Learning:** *Full Stack Development* 
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Explored Tools and Technologies
 
 <p align="center">
 <!-- 🐧 Operating Systems -->
@@ -39,6 +38,10 @@
 <!-- ⚙️ Frameworks / Databases -->
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black" />
 
 <!-- 🧠 Tools / Platforms -->
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
@@ -60,30 +63,34 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hpx07&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpx07&layout=compact&theme=radical" width="48%"/>
-</p>
-
-
----
-
-### 🧠 About Me
-
-> 👨‍💻 I’m a self-driven Full-Stack Developer who loves to build projects from scratch — combining logic, creativity, and precision. <br>
-> 🚀 Currently exploring the modern web stack with React, Node.js, PHP, and MySQL while experimenting with AI tools like ChatGPT, Gemini, and Make.ai to enhance productivity. <br>
-> 💡 Passionate about crafting dynamic, scalable, and visually engaging web experiences, I’m always curious to explore every corner of technology — from design to deployment. <br>
-> 🛠️ Constantly improving my workflow with tools like  Trae, Cursor, Copilot, Replit and Kiro, and bringing ideas to life with Canva and Photoshop.
----
-
-### ✨ Visitor Count
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hpx07&label=Profile+views&color=0e75b6&style=flat" alt="hpx07" />
 </p>
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hpx07&show_icons=true&theme=github_dark" width="48%" height="300px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpx07&layout=compact&theme=github_dark" width="48%" height="203px"/>
+</p>
+
 ---
 
+> ###  [**Portfolio**](https://hpx07.netlify.app/)
+> ###  [**Contact**](mailto:yournamepleaseplease@gmail.com)
+
+---
+
+
+### 🧠 **Interest Areas**  
+> 🌐 Web Development | 🌐Automation | 🎨 Website Design | 🎨Graphics Designing | 📈 SEO | 🌍 WordPress | 💼 Digital Marketing | 📚 GitHub Pages  
+
+
+
+---
+
+
 ⭐️ _Star, fork or follow if you like my work — it motivates me!_
+
+
+
