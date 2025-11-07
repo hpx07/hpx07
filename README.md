@@ -83,7 +83,7 @@
 
 
 ### 🧠 **Interest Areas**  
-> 🌐 Web Development | 🌐Automation | 🎨 Website Design | 🎨Graphics Designing | 📈 SEO | 🌍 WordPress | 💼 Digital Marketing | 📚 GitHub Pages  
+> 🌐 Web Development | 👨‍💻 Automation | 📰 Website Design | 🎨 Graphics Designing | 📈 SEO | 🌍 WordPress | 💼 Digital Marketing | 📚 GitHub Pages  
 
 
 
