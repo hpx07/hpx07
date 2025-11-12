@@ -69,9 +69,9 @@
 
 ### 📊 GitHub Stats
 
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=hpx07&theme=dark)](https://git.io/streak-stats)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hpx07&show_icons=true&theme=github_dark" width="48%" height="300px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpx07&layout=compact&theme=github_dark" width="48%" height="203px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpx07&layout=compact&theme=github_dark" width="100%" height="203px"/>
 </p>
 
 ---
