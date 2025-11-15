@@ -70,7 +70,7 @@
 <!-- Trophies -->
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hpx07&theme=tokyonight&hide_border=true&margin-w=10&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hpx07&theme=darkhub&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />  <!--juicyfresh-->
 </p>
 
 <!-- Streaks -->
