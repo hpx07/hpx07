@@ -90,8 +90,8 @@
 
 ---
 
-> ###  [**🤓Portfolio**](https://hpx07.netlify.app/)
-> ###  [**📨Contact**](mailto:yournamepleaseplease@gmail.com)
+> ###  [**Portfolio**](https://hpx07.netlify.app/)
+> ###  [**Contact**](mailto:yournamepleaseplease@gmail.com)
 
 ---
 
