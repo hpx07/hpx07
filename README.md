@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<h3 align="center">A WEB DEVELOPER IN PROGRESS</h3>
+<h3 align="center">A FULL STACK DEVELOPER IN PROGRESS</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Welcome+to+my+Development+Environment!;Full-Stack+Developer+who+loves+to+build+from+scratch!;Exploring+every+layer+of+modern+technology!;Crafting+dynamic+and+scalable+web+applications!" alt="Typing SVG" />
 
