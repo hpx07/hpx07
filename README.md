@@ -15,7 +15,8 @@
 
 <h3 align="center">A FULL STACK DEVELOPER IN PROGRESS</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Welcome+to+my+Development+Environment!;Full-Stack+Developer+who+loves+to+build+from+scratch!;Exploring+every+layer+of+modern+technology!;Crafting+dynamic+and+scalable+web+applications!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Welcome+to+my+Development+Environment!;Full-Stack+Developer+who+loves+to+build+from+scratch!;Exploring+every+layer+of+modern+technology!;Crafting+dynamic+and+scalable+web+applications!" alt="Typing SVG" /> 
+
 <!--
 ---
 
@@ -24,9 +25,8 @@
 >  **FRAMEWORKS**: *NextJS, ReactJS, ExpressJS, Bootstrap* <br>
 >  **DATABASE**: *MySQL, MySQLi*  <br>
 >  **TOOLS**: *Git, GitHub, VS Code, Trae, Cursor* <br>
->  **CURRENTLY ACTIVE AND LEARNING**: *Full Stack Development* 
+>  **CURRENTLY ACTIVE AND LEARNING**: *Full Stack Development*   --> 
 
--->
 ---
 
 <h2 align="center">USED/EXPLORED TOOLS AND TECHNOLOGIES</h2>
