@@ -2,18 +2,7 @@
   <img src="https://github.com/hpx07/profile-banner/blob/main/WD%20P.png" alt="Profile Banner" />
 </p>
 <h1 align="center">Hi, I'm Harmanpreet Singh(HPX07)</h1>
-<p align="center">
-  <a href="https://hpx07.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=firefoxbrowser&logoColor=FF9D00&labelColor=0D0D0D&color=0D0D0D" />
-  </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="mailto:yournamepleaseplease@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF9D00&labelColor=0D0D0D&color=0D0D0D" />
-  </a>
-</p>
-
-<h3 align="center">A FULL STACK DEVELOPER IN PROGRESS</h3>
+<!-- <h2 align="center">A FULL STACK DEVELOPER IN PROGRESS</h2> -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Welcome+to+my+Development+Environment!;Full-Stack+Developer+who+loves+to+build+from+scratch!;Exploring+every+layer+of+modern+technology!;Crafting+dynamic+and+scalable+web+applications!" alt="Typing SVG" /> 
 
@@ -29,7 +18,7 @@
 
 ---
 
-<h2 align="center">USED/EXPLORED TOOLS AND TECHNOLOGIES</h2>
+<h2 align="center">USED & EXPLORED TOOLS AND TECHNOLOGIES</h2>
 
 <p align="center">
 <!-- 🐧 Operating Systems -->
@@ -56,6 +45,7 @@
 <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black" />
 
 <!-- 🧠 Tools / Platforms -->
+<img src="https://img.shields.io/badge/Android_Studio-00599?logo=androidstudio&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" />
@@ -64,7 +54,7 @@
 <img src="https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Stack_Overflow-F58025?logo=stackoverflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Trae-0088CC?logo=telegram&logoColor=white" />
-<img src="https://img.shields.io/badge/Kiro-FF6F61?logo=kaios&logoColor=white" />
+<img src="https://img.shields.io/badge/Kiro-FF6F61?logo=kaios&logoColor=white"/>
 
 <!-- 🎨 Design / Marketing Tools -->
 <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white" />
@@ -78,9 +68,10 @@
 <h2 align="center">INTEREST AREAS</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web_Development-FF9D00?style=for-the-badge&logo=html5&logoColor=white&color=0D0D0D&labelColor=FF4F00" />
+  <img src="https://img.shields.io/badge/FullStack_Development-FF9D00?style=for-the-badge&logo=html5&logoColor=white&color=0D0D0D&labelColor=FF4F00" />
   <img src="https://img.shields.io/badge/Automation-FF9D00?style=for-the-badge&logo=githubactions&logoColor=white&color=0D0D0D&labelColor=FF4F00" />
-  <img src="https://img.shields.io/badge/Website_Design-FF9D00?style=for-the-badge&logo=figma&logoColor=white&color=0D0D0D&labelColor=FF4F00" />
+  <img src="https://img.shields.io/badge/Android_App_Dev-FF9D00?style=for-the-badge&logo=linux&logoColor=white&color=0D0D0D&labelColor=FF4F00" />
+  <img src="https://img.shields.io/badge/Cracking-FF9D00?style=for-the-badge&logo=kalilinux&logoColor=white&color=0D0D0D&labelColor=FF4F00" />
   <img src="https://img.shields.io/badge/Graphics_Design-FF9D00?style=for-the-badge&logo=figma&logoColor=white&color=0D0D0D&labelColor=FF4F00" />
   <img src="https://img.shields.io/badge/SEO-FF9D00?style=for-the-badge&logo=googlesearchconsole&logoColor=white&color=0D0D0D&labelColor=FF4F00" />
   <img src="https://img.shields.io/badge/WordPress-FF9D00?style=for-the-badge&logo=wordpress&logoColor=white&color=0D0D0D&labelColor=FF4F00" />
@@ -94,9 +85,9 @@
 
 <!-- Trophies -->
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hpx07&theme=darkhub&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />  <!--juicyfresh-->
-</p>
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hpx07&theme=darkhub&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" /> 
+</p> -->
 
 <!-- Streaks -->
  <p align="center">
@@ -108,10 +99,10 @@
 
 <!-- Stats -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hpx07&show_icons=true&theme=great-gatsby&hide_border=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpx07&layout=compact&theme=great-gatsby&hide_border=true" />
-</p>
+</p> -->
 
 
 
