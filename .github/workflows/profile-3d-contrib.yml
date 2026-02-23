@@ -7,6 +7,9 @@ on:
   
   # allows to manually run the job at any time
   workflow_dispatch:
+
+permissions:
+  contents: write  
   
   # run on every push on the main branch
   # don't forget to change if you're using 'master' branch
