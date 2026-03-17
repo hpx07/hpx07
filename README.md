@@ -85,9 +85,9 @@
 
 <!-- Trophies -->
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hpx07&theme=darkhub&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" /> 
-</p> -->
+</p> 
 
 <!-- Streaks -->
  <p align="center">
