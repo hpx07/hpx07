@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/hpx07/profile-banner/blob/main/wp-cat-c.jpg" alt="Profile Banner" />
 </p>
-<h1 align="center">Hi, I'm Harmanpreet Singh(HPX07)</h1>
+<h1 align="center">Hi, I'm Preet(HPX07)</h1>
 <!-- <h2 align="center">A FULL STACK DEVELOPER IN PROGRESS</h2> -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Welcome+to+my+Development+Environment!;Full-Stack+Developer+who+loves+to+build+from+scratch!;Exploring+every+layer+of+modern+technology!;Crafting+dynamic+and+scalable+web+applications!" alt="Typing SVG" /> 
@@ -107,7 +107,6 @@
 
 
 ---
-<h2 align="center">THATS ALL FOR NOW...</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hpx07&label=Profile+views&color=0e75b6&style=flat" alt="hpx07" />
