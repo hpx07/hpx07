@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/hpx07/profile-banner/blob/main/graphics-profile.jpg" alt="Profile Banner" />
+  <img src="https://github.com/hpx07/profile-banner/blob/main/wp-cat-c.jpg" alt="Profile Banner" />
 </p>
 <h1 align="center">Hi, I'm Harmanpreet Singh(HPX07)</h1>
 <!-- <h2 align="center">A FULL STACK DEVELOPER IN PROGRESS</h2> -->
