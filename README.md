@@ -76,7 +76,6 @@
   <img src="https://img.shields.io/badge/SEO-FF9D00?style=for-the-badge&logo=googlesearchconsole&logoColor=white&color=0D0D0D&labelColor=FF4F00" />
   <img src="https://img.shields.io/badge/WordPress-FF9D00?style=for-the-badge&logo=wordpress&logoColor=white&color=0D0D0D&labelColor=FF4F00" />
   <img src="https://img.shields.io/badge/Digital_Marketing-FF9D00?style=for-the-badge&logo=googleanalytics&logoColor=white&color=0D0D0D&labelColor=FF4F00" />
-  <img src="https://img.shields.io/badge/GitHub_Pages-FF9D00?style=for-the-badge&logo=github&logoColor=white&color=0D0D0D&labelColor=FF4F00" />
 </p>
 
 ---
